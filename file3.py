@@ -1,0 +1,1 @@
+print('Tecer archivo como nustra tercera estrella')
